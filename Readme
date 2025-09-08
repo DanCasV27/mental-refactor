@@ -1,1 +1,44 @@
-First file
+# Mental Refactor
+
+A modern web application focused on mental wellness and cognitive transformation. This project provides tools and resources to help users improve their mental health through structured approaches and community support.
+
+## Features
+
+- **Mindfulness Tools**: Guided exercises and meditation resources
+- **Progress Tracking**: Monitor your mental wellness journey with analytics
+- **Community Support**: Connect with others in a safe, supportive environment
+
+## Getting Started
+
+To view the landing page locally:
+
+1. Clone this repository
+2. Open `index.html` in your web browser
+3. No build process required - it's a static website
+
+## Project Structure
+
+```
+mental-refactor/
+├── index.html          # Main landing page
+├── css/
+│   └── styles.css      # Main stylesheet
+├── assets/
+│   └── images/         # Image assets and icons
+│       ├── hero-illustration.svg
+│       ├── mindfulness-icon.svg
+│       ├── progress-icon.svg
+│       └── community-icon.svg
+└── README.md           # This file
+```
+
+## Technologies Used
+
+- HTML5
+- CSS3 (with Flexbox and Grid)
+- SVG graphics
+- Responsive design principles
+
+## Contributing
+
+This project is focused on creating a clean, accessible landing page for mental wellness resources. Contributions that improve accessibility, performance, or user experience are welcome.
